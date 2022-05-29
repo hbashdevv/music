@@ -48,12 +48,12 @@
       "value": "https://telegra.ph/file/cf19dda907391656338eb.png"
     },     
     "UPDATES_CHANNEL": {
-      "description": "Updates Channel without @ [Leave this if you don't have one].",
+      "description": "يوزر مجموعتك او قناتك بدون @",
       "required": false,
       "value": "ZauteKm"
     },    
     "API_ID": {
-      "description": "App ID from my.telegram.org/apps",
+      "description": "ايبي ايدي my.telegram.org/apps",
       "required": true
     },
     "PMPERMIT": {
@@ -62,15 +62,15 @@
       "value": "ENABLE"
     },    
     "API_HASH": {
-      "description": "App hash from my.telegram.org/apps",
+      "description": "ايبي هاش احصل عليه من: my.telegram.org/apps",
       "required": true
     },
     "SUDO_USERS": {
-      "description": "List of user IDs counted as admin everywhere (separated by space).",
+      "description": "ضع ايديات المطورين اذا كنت تريد ان تضع اكثر من ايدي ضع مسافه",
       "required": true
     },
     "DURATION_LIMIT": {
-      "description": "Max audio duration limit for downloads (minutes).",
+      "description": "الحد الاقصى لتنزيل الصوتيات بلدقائق يفضل تتركه كما هو",
       "required": true,
       "value": "10"
     }
